@@ -5,3 +5,5 @@ touch <ファイル名>
 git add <ファイル名>
 git commit -m “Create <ファイル名>”
 git push origin master
+
+https://github.com/vuejs/devtools/releases
